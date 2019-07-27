@@ -1,0 +1,31 @@
+.Main_body{
+	background-color:#343a40 !important;
+	color: #fff;
+}
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #78a1cac4;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+}
+.PageHeader{
+	padding: 15px;
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 800;
+}
+.custome_button{
+    width: 43%;
+    height: 59px;
+}
